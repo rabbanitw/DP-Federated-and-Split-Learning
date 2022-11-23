@@ -1,0 +1,2 @@
+Namespace(name='VanillaDecenNoise0.3', description='VanillaDecen', model='res', resSize=50, lr=0.8, momentum=0.0, epoch=200, bs=64, warmup=False, nesterov=False, matcha=False, budget=0.5, graphid=0, dataset='cifar10', datasetRoot='./data', downloadCifar=0, p=False, savePath=None, outputFolder='OutputDecen200-Noise0.3', compress=False, consensus_lr=0.1, randomSeed=9001)
+VanillaDecen

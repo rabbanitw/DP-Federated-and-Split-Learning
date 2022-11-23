@@ -1,0 +1,2 @@
+Namespace(name='VanDPNoise1.1', description='VanDPNoise1.1', model='res', resSize=50, lr=0.8, momentum=0.0, epoch=200, bs=64, warmup=False, nesterov=False, matcha=False, budget=1.0, graphid=0, dataset='cifar10', datasetRoot='./data', downloadCifar=0, p=False, savePath=None, outputFolder='VanDPNoise1.1', compress=False, consensus_lr=0.1, randomSeed=9001)
+VanDPNoise1.1
