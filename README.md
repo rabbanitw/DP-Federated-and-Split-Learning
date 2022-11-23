@@ -1,6 +1,11 @@
 # DPFL
 Differentially Private SGD for Decentralized Federated and Split Learning Models.
 
-dpsl.tar.tbz is the tar file for split learning experiments.
+dp-decent contains relevant code for decentralized learning experiments.
 
-dpfl.tar.tbz is the tar file for decentralized federated learning experiments. 
+dp-split contains relevant code split learning experiments. 
+
+Base code pulled from https://github.com/bt-s/Split-Learning-and-Federated-Learning. 
+Opacus is incorporated to introduce Gaussian noise into gradient updates. 
+
+Your choice on dataset, but Fashion MNIST is expected. 
